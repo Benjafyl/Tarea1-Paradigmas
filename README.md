@@ -5,7 +5,7 @@ El programa permite crear preguntas de opción múltiple o verdadero/falso, asig
 
 El proyecto está organizado en dos carpetas principales: include/, donde se encuentran los archivos de cabecera (Pregunta.h, BancoPreguntas.h y Evaluacion.h), y src/, donde se encuentra el archivo principal main.cpp.
 
-Para compilar y ejecutar el programa en Replit, presionar el botón Run
+Para compilar y ejecutar el programa en Replit, presionar el botón Run.
 
 Autores: Benjamín Yáñez Lasalvia y Cristóbal Zamora Barco
 
