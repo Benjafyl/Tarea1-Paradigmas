@@ -8,4 +8,5 @@ El proyecto está organizado en dos carpetas principales: include/, donde se enc
 Para compilar y ejecutar el programa en Replit, presionar el botón Run
 
 Autores: Benjamín Yáñez Lasalvia y Cristóbal Zamora Barco
+
 Profesor: Juan Maureira Calderón
